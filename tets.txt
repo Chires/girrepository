@@ -3,3 +3,4 @@ add Second TestString
 dcasdjfksad
 fasdfas
 afsdf
+Creating a new branch is quick & simple.
